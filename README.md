@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="AntiCELDocs/app-icon.png" alt="AntiCEL" width="120" />
+  <img src="/app-icon.png" alt="AntiCEL" width="120" />
 </p>
 
 <h1 align="center">AntiCEL</h1>
